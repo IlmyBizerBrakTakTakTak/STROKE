@@ -11,4 +11,10 @@ Institusi kesehatan sering menghadapi kesulitan dalam:
 3. Mengoptimalkan sumber daya medis untuk pencegahan dini
 
 Tanpa segmentasi yang jelas, penanganan pasien cenderung bersifat umum dan kurang tepat sasaran.
-#### 1. Mengidentifikasi kelompok pasien dengan risiko stroke secara cepat dan efisien
+## 🎯 Tujuan Bisnis
+ujuan dari penelitian ini adalah:
+
+1. Mengelompokkan pasien berdasarkan tingkat risiko stroke menggunakan pendekatan data mining
+2. Membantu tenaga medis dalam memahami pola risiko pasien
+3. Mendukung pengambilan keputusan dalam strategi pencegahan stroke
+4. Meningkatkan efisiensi layanan kesehatan melalui segmentasi pasien
