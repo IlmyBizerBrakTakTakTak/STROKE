@@ -11,4 +11,4 @@ Institusi kesehatan sering menghadapi kesulitan dalam:
 3. Mengoptimalkan sumber daya medis untuk pencegahan dini
 
 Tanpa segmentasi yang jelas, penanganan pasien cenderung bersifat umum dan kurang tepat sasaran.
-### 1. Mengidentifikasi kelompok pasien dengan risiko stroke secara cepat dan efisien
+#### 1. Mengidentifikasi kelompok pasien dengan risiko stroke secara cepat dan efisien
