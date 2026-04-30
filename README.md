@@ -1,5 +1,5 @@
 # Penerapan Algoritma K-Means untuk Segmentasi Risiko Stroke Berdasarkan Data Klinis
-##📌Deskripsi Proyek
+## BNJBJB
 Stroke merupakan salah satu penyebab utama kematian dan kecacatan di dunia. Banyak kasus stroke terjadi secara tiba-tiba tanpa penanganan dini karena kurangnya deteksi risiko sejak awal. Dengan semakin berkembangnya teknologi dan ketersediaan data kesehatan, analisis data dapat dimanfaatkan untuk mengidentifikasi kelompok individu berdasarkan tingkat risiko stroke.
 
 Dataset yang digunakan berisi data klinis pasien seperti usia, jenis kelamin, hipertensi, penyakit jantung, status pernikahan, jenis pekerjaan, kadar glukosa, BMI, dan status merokok. Data ini memiliki potensi besar untuk dianalisis guna menemukan pola yang tidak terlihat secara langsung.
