@@ -19,10 +19,3 @@ ujuan dari penelitian ini adalah:
 3. Mendukung pengambilan keputusan dalam strategi pencegahan stroke
 4. Meningkatkan efisiensi layanan kesehatan melalui segmentasi pasien
 
-flowchart LR
-A[Data Analisis Urine] --> B[Preprocessing & Scaling]
-B --> C[Exploratory Data Analysis]
-C --> D[Model KNN]
-D --> E[Optimasi Hyperparameter]
-E --> F[Evaluasi Model]
-F --> G[Prediksi & Decision Support]
